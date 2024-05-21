@@ -1,0 +1,15 @@
+*{
+
+    font-family: "Poppins", sans-serif;
+}
+#zaman{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.asik{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
